@@ -15,5 +15,18 @@
   "bugs": {
     "url": "https://github.com/sebtedesco/cities/issues"
   },
-  "homepage": "https://github.com/sebtedesco/cities#readme"
+  "homepage": "https://github.com/sebtedesco/cities#readme",
+  "keywords": [
+    "cities",
+    "app"
+  ],
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "consolidate": "*",
+    "dust": "*",
+    "dustjs-helpers": "*",
+    "dustjs-linkedin": "*",
+    "Express": "*",
+    "pg": "*"
+  }
 }
